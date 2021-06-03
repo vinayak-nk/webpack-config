@@ -1,10 +1,15 @@
-import './styles/index.scss'
+import { render } from 'react-dom'
 
-const test = {
-  x: 2,
-  y: 1,
-  z: 4,
-  a: 10
-}
+import App from './components/App'
 
-console.log(test)
+
+render(<App />, document.getElementById('root'))
+
+// const test = {
+//   x: 2,
+//   y: 1,
+//   z: 4,
+//   a: 10
+// }
+
+// console.log(test)

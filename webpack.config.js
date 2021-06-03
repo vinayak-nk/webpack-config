@@ -24,7 +24,7 @@ module.exports = {
         ],
       },
       {
-        test: /\.js$/,
+        test: /\.jsx?$/, //js or jsx
         exclude: /node_modules/,
         use: {
           loader: "babel-loader",
@@ -36,6 +36,10 @@ module.exports = {
   plugins: [
     new MiniCssExtractPlugin()
   ],
+
+  resolve: {
+    extensions: [".js", ".jsx"]
+  },
 
   devServer: {
     contentBase: './dist', // live reloading enabled after adding this
