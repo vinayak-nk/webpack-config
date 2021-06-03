@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <g id="detail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15" transform="translate(2.000000, 1.000000)" stroke="#000000">
+            <g id="icon_fill_alarm_log" fill-rule="nonzero" stroke-width="1.5">
+                <path d="M11.8824146,1.88888889 L14.0482963,1.88888889 C14.6352727,1.88888889 15.1111111,2.36472729 15.1111111,2.9517037 L15.1111111,15.9371852 C15.1111111,16.5241616 14.6352727,17 14.0482963,17 L1.06281481,17 C0.475838401,17 0,16.5241616 0,15.9371852 L0,2.9517037 C0,2.36472729 0.475838401,1.88888889 1.06281481,1.88888889 L3.20287182,1.88888889" id="Path"></path>
+                <rect id="Rectangle" x="3.14814815" y="0" width="8.81481481" height="3.14814815" rx="1.125"></rect>
+            </g>
+            <line x1="3.71384615" y1="9.18" x2="11.2461538" y2="9.18" id="Line-4" stroke-linecap="round"></line>
+            <line x1="3.71384615" y1="6.46" x2="11.2461538" y2="6.46" id="Line-4" stroke-linecap="round"></line>
+            <line x1="3.71384615" y1="11.9" x2="11.2461538" y2="11.9" id="Line-4" stroke-linecap="round"></line>
+        </g>
+    </g>
+</svg>

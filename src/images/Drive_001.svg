@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="18px" viewBox="0 0 26 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="4.75757576" cy="13.6956522" rx="1.18181818" ry="1.17391304"></ellipse>
+        <filter x="-63.5%" y="-63.9%" width="226.9%" height="227.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.8 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-3" cx="8.6969697" cy="13.6956522" rx="1.18181818" ry="1.17391304"></ellipse>
+        <filter x="-63.5%" y="-63.9%" width="226.9%" height="227.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.8 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Drive_001" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14-Copy">
+            <path d="M1.8189894e-12,10.9565217 L26,10.9565217 L25.41097,16.222332 C25.2977436,17.2345528 24.4419001,18 23.4233663,18 L2.57663373,18 C1.55809991,18 0.702256377,17.2345528 0.589030032,16.222332 L1.8189894e-12,10.9565217 L1.8189894e-12,10.9565217 Z" id="Rectangle-4" fill="#6236FF"></path>
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <path d="M4.92101029,0 L21.0789897,0 C21.9518808,2.83741724e-16 22.7239441,0.566101855 22.9864252,1.39859356 L26,10.9565217 L26,10.9565217 L0,10.9565217 L3.01357476,1.39859356 C3.27605591,0.566101855 4.04811923,-9.49875539e-16 4.92101029,0 Z" id="Rectangle-4" fill="#9A7EFF"></path>
+        </g>
+    </g>
+</svg>
